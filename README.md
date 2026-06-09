@@ -19,7 +19,3 @@ I primarily work with Ruby on Rails, but I'm flexible and use whatever tools are
   - https://github.com/mmistakes/minimal-mistakes/pull/5245
   - https://github.com/yasslab/railsguides.jp/pull/982
   - https://github.com/yasslab/railsguides.jp/pull/978
-
-### 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=y-kawa&theme=light)](https://github.com/y-kawa/)
